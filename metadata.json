@@ -1,0 +1,6 @@
+{
+  "name": "مُتَرجِم ذكي",
+  "description": "موقع ترجمة فوري مدعوم بالذكاء الاصطناعي مع واجهة بديهية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
